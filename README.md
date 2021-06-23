@@ -1,2 +1,2 @@
 # CodeCampProblems
-Codecamp(1)arryevenandoddsum
+Codecamp
