@@ -11,5 +11,5 @@ public class MBA_Challenge {
 			int s = (int)Math.pow(n, k);
 			int rem = s%10; 
 	        System.out.println(rem);
-		}
 	}
+}
